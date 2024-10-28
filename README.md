@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Raj Singh (@raj-singhh)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java programming
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on learning and making projects
-- 📫 you can reach me through my insta @raj.thakurr_
+- 📫 you can reach me through  linkedin- https://www.linkedin.com/in/rajsingh-/
 
 <!---
 raj-singhh/raj-singhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
