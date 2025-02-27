@@ -56,7 +56,7 @@ Hey there! I'm **Raj Singh**, a passionate developer who loves building cool stu
 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House 😆
 
 🎶 **Coding Vibes:**
-[![Spotify Playing](https://novatorem-raj-singhh.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+[![Spotify Playing](https://novatorem-raj-singhh.vercel.app/api/spotify)](https://open.spotify.com/user/zkij20ujsovj0yoa6w1hsspc0)
 
 ---
 
