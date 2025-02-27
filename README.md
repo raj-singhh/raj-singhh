@@ -1,34 +1,63 @@
-# Hi there, I'm Raj Singh! 👋
+# 🚀 Welcome to My GitHub Universe!
 
-![Profile Views](https://komarev.com/ghpvc/?username=raj-singhh&color=blueviolet)
+Hey there! I'm **Raj Singh**, a passionate developer who loves building cool stuff with **MERN stack**, **Java**, and more. I believe in continuous learning and turning ideas into reality! 🌟
 
-## 🌟 About Me
-- 🎓 Student at **RKGIT**
-- 💻 Passionate about **MERN Stack Development**
-- 🚀 Building **iNotebook, TextUtils, NewsFox, Spotify Clone, Tic-Tac-Toe**
-- 📚 Learning **React & Competitive Programming**
+---
 
-## 🚀 Tech Stack
+## 🌍 Who am I?
+💡 A developer exploring new technologies.<br>
+🎯 Always working on exciting projects.<br>
+📚 Learning something new every day!<br>
+
+---
+
+## 🔥 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🌟 CodeChef Profile
-![CodeChef](https://cp-logo.vercel.app/codechef/rajsinghh)
-🔗 [CodeChef Profile](https://www.codechef.com/users/rajsinghh)
+---
+
+## 📌 Featured Projects
+
+🚀 **[iNotebook](https://github.com/raj-singhh/iNotebook)** - Secure cloud-based notes app.<br>
+📝 **[TextUtils](https://github.com/raj-singhh/TextUtils)** - A handy text utility tool.<br>
+📰 **[NewsFox](https://github.com/raj-singhh/NewsFox)** - A modern news app.<br>
+🎵 **[Spotify Clone](https://github.com/raj-singhh/Spotify-Clone)** - Music streaming app.<br>
+🎮 **[Tic Tac Toe](https://github.com/raj-singhh/Tic-Tac-Toe)** - Fun minor project.<br>
+
+---
 
 ## 📊 GitHub Stats
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-singhh&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raj-singhh&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-singhh&layout=compact&theme=radical)
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajsingh-/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rajsinghh_/)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj-singhh&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-singhh&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-singhh&layout=compact&theme=radical&hide_border=true)
+
+📈 **Contribution Graph:**
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-singhh&theme=github_dark)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajsingh-/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajsinghh_/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anjay.rajpaliwal)
 
-🎯 Keep Coding, Keep Growing! 🚀
+---
+
+## 🎨 Fun & Dynamic Section
+🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House 😆
+
+🎶 **Coding Vibes:**
+[![Spotify Playing](https://novatorem-raj-singhh.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+
+---
+
+🚀 *Thanks for stopping by! Let's connect and build something amazing together!* 😃
