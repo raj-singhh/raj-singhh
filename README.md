@@ -34,7 +34,8 @@ Hey there! I'm **Raj Singh**, a passionate developer who loves building cool stu
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj-singhh&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=raj-singhh&theme=radical&hide_border=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-singhh&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-singhh&layout=compact&theme=radical&hide_border=true)
 
