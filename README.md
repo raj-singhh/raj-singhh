@@ -28,7 +28,7 @@ Hey there! I'm **Raj Singh**, a passionate developer who loves building cool stu
 📝 **[TextUtils](https://github.com/raj-singhh/textUtils)** - A handy text utility tool.<br>
 📰 **[NewsFox](https://github.com/raj-singhh/NewsFox)** - A modern news app.<br>
 🎵 **[Spotify Clone](https://github.com/raj-singhh/Spotify-Clone)** - Music streaming app.<br>
-🎮 **[Tic Tac Toe](https://github.com/raj-singhh/Tic-Tac-Toe)** - Fun minor project.<br>
+🎮 **[Tic Tac Toe](https://github.com/raj-singhh/Tic-Tac-Toe)** - Fun minor project. <br>
 
 ---
 
