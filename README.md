@@ -5,7 +5,7 @@ Hey there! I'm **Raj Singh**, a passionate developer who loves building cool stu
 ---
 
 ## 🌍 Who am I?
-💡 A developer exploring new technologies.<br>
+💡 A developer exploring new technologies. <br>
 🎯 Always working on exciting projects.<br>
 📚 Learning something new every day!<br>
 
