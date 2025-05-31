@@ -60,4 +60,11 @@ Hey there! I'm **Raj Singh**, a passionate developer who loves building cool stu
 ---
 
 🚀 *Thanks for stopping by! Let's connect and build something amazing together!* 😃
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=raj-singhh&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
+
+
+
+
 
