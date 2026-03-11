@@ -1,71 +1,145 @@
-#  Welcome to My GitHub !
+<div align="center">
 
-Hey there! I'm **Raj Singh**, a passionate developer who loves building cool stuff with **MERN stack**, **Java**, and more. I believe in continuous learning and turning ideas into reality! 🌟
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Raj%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Java+Backend+Developer;MERN+Stack+Builder;Building+Scalable+Web+Applications;Clean+Code+%7C+Scalable+Systems"/>
 
-## 🌍 Who am I?
-💡 A developer exploring new technologies. <br>
-🎯 Always working on exciting projects.<br>
-📚 Learning something new every day!<br>
+<br/>
 
----
-## 🔥 Tech Stack
+<img src="https://komarev.com/ghpvc/?username=raj-singhh&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-- 💻 **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-- 🌐 **Frontend**: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- 🛠️ **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-- 📦 **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- 🔧 **Tools & Platforms**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
-
-## 📌 Featured Projects
-
-🚀 **[iNotebook](https://github.com/raj-singhh/inotebook-)** - Secure cloud-based notes app.<br>
-📝 **[TextUtils](https://github.com/raj-singhh/textUtils)** - A handy text utility tool.<br>
-📰 **[NewsFox](https://github.com/raj-singhh/NewsFox)** - A modern news app.<br>
-🎵 **[Spotify Clone](https://github.com/raj-singhh/Spotify-Clone)** - Music streaming app.<br>
-🎮 **[Tic Tac Toe](https://github.com/raj-singhh/Tic-Tac-Toe)** - Fun minor project. <br>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Engineering Profile
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=raj-singhh&theme=radical&hide_border=true)
+Full-stack engineer building **scalable platforms, clean backend systems, and modern web applications**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-singhh&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-singhh&layout=compact&theme=radical&hide_border=true)
-
-📈 **Contribution Graph:**
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj-singhh&theme=github_dark)
+Focused on **performance, architecture, and maintainable systems**.
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajsingh-/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajsinghh_/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anjay.rajpaliwal)
+# 🧠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nextjs,nodejs,express,mongodb,mysql,docker,tailwind,bootstrap,git,github,postman,vercel,vscode"/>
+
+</div>
 
 ---
 
-## 🎨 Fun & Dynamic Section
-🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House 😆
+# ⚡ Core Engineering Areas
 
-🎶 **Coding Vibes:**
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```text
+Backend Systems
+REST API Architecture
+Full Stack Platforms
+Authentication Systems
+Database Design
+Scalable Web Applications
+```
 
 ---
 
-🚀 *Thanks for stopping by! Let's connect and build something amazing together!* 😃
+# 🎴 Highlighted Projects
+
+<div align="center">
+
+<a href="https://github.com/raj-singhh/microsoft-loop-clone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-singhh&repo=microsoft-loop-clone&theme=tokyonight&hide_border=true"/>
+</a>
+
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=raj-singhh&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
+🔗 **Live Demo**
+https://microsoft-loop-clone-sand.vercel.app/
+
+<br><br>
+
+<a href="https://github.com/raj-singhh/newsfox">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-singhh&repo=newsfox&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br>
+
+🔗 **Live Demo**
+http://newsfox.vercel.app/
+
+<br><br>
+
+<a href="https://github.com/raj-singhh/sorting-visualizer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-singhh&repo=sorting-visualizer&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 
 
+# 📊 Development Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raj-singhh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-singhh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-singhh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 
+# 🧠 Problem Solving
 
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/rajsinghh_?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+
+<br><br>
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-rajsinghh-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/rajsinghh)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rajsinghh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajsinghh/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-rajsinghh-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rajsinghh)
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# ⚙ Engineering Philosophy
+
+```text
+Write clean code
+Design scalable systems
+Solve meaningful problems
+Ship production-ready software
+Keep evolving as an engineer
+```
+
+---
+
+<div align="center">
+
+💡 Engineering scalable systems and meaningful digital products.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
