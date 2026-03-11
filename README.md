@@ -108,7 +108,7 @@ http://newsfox.vercel.app/
 <br><br>
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-rajsinghh-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/rajsinghh)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rajsinghh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajsinghh/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rajsinghh_-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajsinghh/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-rajsinghh-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rajsinghh)
 </div>
 
